@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Pages Practice</title>
+
+  <style>
+    body {
+      min-height: 100vh;
+      margin: 0;
+      display: grid;
+      place-items: center;
+      background: #16213e;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+
+    main {
+      padding: 40px;
+    }
+
+    button {
+      padding: 12px 24px;
+      border: 0;
+      border-radius: 8px;
+      background: #f4a261;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <h1>My GitHub Pages Practice</h1>
+    <p id="message">This website is running locally.</p>
+    <button onclick="changeMessage()">Test JavaScript</button>
+  </main>
+
+  <script>
+    function changeMessage() {
+      document.getElementById("message").textContent =
+        "JavaScript is working!";
+    }
+  </script>
+</body>
+</html>

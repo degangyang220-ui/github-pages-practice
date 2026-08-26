@@ -1,54 +1,27 @@
-\# GitHub Pages Practice
-
-
+# GitHub Pages Practice
 
 A small static website created to practice GitHub and GitHub Pages deployment.
 
+## Live Website
 
+[Open the website](https://degangyang220-ui.github.io/github-pages-practice/)
 
-\## Live Website
+## Technologies
 
+- HTML
+- CSS
+- JavaScript
 
+## GitHub Workflow Practiced
 
-\[Open the website](https://degangyang220-ui.github.io/github-pages-practice/)
+- Creating repositories
+- Committing and pushing changes
+- Deploying with GitHub Pages
+- Reviewing commit history
+- Reverting changes
+- Creating feature branches
+- Opening and merging pull requests
 
-
-
-\## Technologies
-
-
-
-\- HTML
-
-\- CSS
-
-\- JavaScript
-
-
-
-\## GitHub Workflow Practiced
-
-
-
-\- Creating repositories
-
-\- Committing and pushing changes
-
-\- Deploying with GitHub Pages
-
-\- Reviewing commit history
-
-\- Reverting changes
-
-\- Creating feature branches
-
-\- Opening and merging pull requests
-
-
-
-\## Author
-
-
+## Author
 
 Created by degangyang220-ui.
-
